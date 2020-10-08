@@ -1,2 +1,2 @@
-# stonk-simulator
-A stonk simulator, A multiplayer Unity game about stocks made with Mirror networking
+# Stonk-Simulator
+Stonk Simulator, A multiplayer Unity game about stocks made with Mirror networking
